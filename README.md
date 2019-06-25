@@ -181,9 +181,10 @@ class ViewController: UIViewController {
 ![Jietu20190625-103713@2x.jpg](https://upload-images.jianshu.io/upload_images/41085-a7f3ba2df8ad8a85.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-
+## 专栏订阅
 - [请点击，免费阅读《学Swift挣美元》专栏](https://www.jianshu.com/c/5c4b266a8840)
-##往期精彩
+
+## 往期精彩
 - [ 赚钱App研究之生成代码app ](https://www.jianshu.com/p/3031b7591f7d)
 - [赚钱App研究之格式转换类app](https://www.jianshu.com/p/22b2d9861652)
 
